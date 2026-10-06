@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "eyebrow": "ABOUT CLINICPRO",
+    "title": "Built for better clinic days.",
+    "description": "ClinicPro brings your patients, appointments, prescriptions, billing, treatments, inventory, and reports into one connected workspace—so you can focus on what matters most: providing exceptional care.",
+    "cta": "Book a demo"
+  },
+  "modulesHeading": {
+    "title": "Every part of your clinic, working together.",
+    "subtitle": "Powerful modules, one seamless experience."
+  },
+  "modules": [
+    {
+      "icon": "fal fa-user-injured",
+      "title": "Patient Management",
+      "description": "Maintain complete patient profiles, medical history, and visit records in one secure place.",
+      "tone": "purple",
+      "href": "/features/patient-management"
+    },
+    {
+      "icon": "fal fa-calendar-alt",
+      "title": "Appointment Scheduling",
+      "description": "Smart scheduling with reminders, waitlist management, and calendar views that reduce no-shows.",
+      "tone": "teal",
+      "href": "/features/appointment-scheduling"
+    },
+    {
+      "icon": "fal fa-notes-medical",
+      "title": "Clinical Documentation",
+      "description": "Create SOAP notes, prescriptions, and treatment plans with templates that save time.",
+      "tone": "pink",
+      "href": "/features/clinic-notes"
+    },
+    {
+      "icon": "fal fa-file-invoice-dollar",
+      "title": "Billing & Invoices",
+      "description": "Generate invoices, manage payments, insurance, and settlements with transparent workflows.",
+      "tone": "gold",
+      "href": "/features/payments-invoices"
+    },
+    {
+      "icon": "fal fa-boxes",
+      "title": "Inventory & Pharmacy",
+      "description": "Track medicines, consumables, and stock levels with expiry alerts and automated reorder suggestions.",
+      "tone": "green",
+      "href": "/features/products-inventory"
+    },
+    {
+      "icon": "fal fa-chart-line",
+      "title": "Reports & Analytics",
+      "description": "Real-time dashboards and custom reports to help you make better operational decisions.",
+      "tone": "blue",
+      "href": "/features/reports-analytics"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ClinicPro?",
+      "answer": "ClinicPro is a connected clinic-management workspace that brings patient care, appointments, billing, pharmacy, inventory, and reporting into one practical system."
+    },
+    {
+      "question": "Can I manage multiple clinic branches?",
+      "answer": "Yes. ClinicPro supports multi-clinic operations with central visibility for branches, teams, stock, workflows, and reporting."
+    },
+    {
+      "question": "Is my clinic data secure?",
+      "answer": "Role-based access, protected sessions, and audit-ready activity help clinics manage information responsibly."
+    },
+    {
+      "question": "Do you provide training and support?",
+      "answer": "ClinicPro onboarding is designed around your clinic's workflow, with guided setup and ongoing product support."
+    },
+    {
+      "question": "Can I use ClinicPro on mobile?",
+      "answer": "ClinicPro is designed for flexible access so your team can stay connected while moving through the clinic day."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "Book a personalised demonstration and the ClinicPro team will show the modules most relevant to your clinic."
+    }
+  ],
+  "cta": {
+    "title": "Ready to see your clinic in one workspace?",
+    "description": "Book a personalised demo and see how ClinicPro can simplify your clinic operations.",
+    "button": "Book a demo"
+  }
+}

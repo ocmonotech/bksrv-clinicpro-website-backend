@@ -1,0 +1,1336 @@
+{
+  "pricingPlans": {
+    "monthly": [
+      {
+        "id": 1,
+        "cls": "",
+        "title": "Starter",
+        "subtitle": "Starter Plan",
+        "btnText": "Get Starter"
+      },
+      {
+        "id": 2,
+        "cls": "active",
+        "title": "Professional",
+        "subtitle": "Professional Plan",
+        "btnText": "Get Professional"
+      },
+      {
+        "id": 3,
+        "cls": "",
+        "title": "Enterprise",
+        "subtitle": "Enterprise Plan",
+        "btnText": "Get Enterprise"
+      }
+    ],
+    "yearly": [
+      {
+        "id": 1,
+        "cls": "",
+        "title": "Starter",
+        "subtitle": "Starter Plan",
+        "btnText": "Get Starter"
+      },
+      {
+        "id": 2,
+        "cls": "active",
+        "title": "Professional",
+        "subtitle": "Professional Plan",
+        "btnText": "Get Professional"
+      },
+      {
+        "id": 3,
+        "cls": "",
+        "title": "Enterprise",
+        "subtitle": "Enterprise Plan",
+        "btnText": "Get Enterprise"
+      }
+    ]
+  },
+  "pricingComparison": {
+    "monthly": [
+      {
+        "type": "section",
+        "title": "Price"
+      },
+      {
+        "type": "row",
+        "title": "Price (Monthly) + GST",
+        "values": [
+          "₹ 599",
+          "₹ 1299",
+          "₹ 2299"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Website (with 2yr Subscription)"
+      },
+      {
+        "type": "row",
+        "title": "Website Creation",
+        "values": [
+          "HTML website",
+          "Word Press website",
+          "CMS Website"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Appointment Widget",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Dashboard"
+      },
+      {
+        "type": "row",
+        "title": "Clinic Dashboard",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Revenue Dashboard",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Clients"
+      },
+      {
+        "type": "row",
+        "title": "Clients",
+        "values": [
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Telehealth Options"
+      },
+      {
+        "type": "row",
+        "title": "Telehealth Options",
+        "values": [
+          "Zoom",
+          "Zoom",
+          "Zoom"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Calendar"
+      },
+      {
+        "type": "row",
+        "title": "Dynamic Smart Calendar",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Appointments"
+      },
+      {
+        "type": "row",
+        "title": "Appointments",
+        "values": [
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Manual Reminders",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Automatic Reminders",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Client Booking Portal",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Prescription"
+      },
+      {
+        "type": "row",
+        "title": "Digital Prescription Manager",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Integrated Billing",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Billing & Invoicing",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Treatments"
+      },
+      {
+        "type": "row",
+        "title": "Treatments",
+        "values": [
+          "times",
+          "₹1200* / month",
+          "₹1800* / month"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Treatment Operations (Check-in / Check-out + Live Session Dashboard)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Therapist Management (assignments, availability, session ownership)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Consumable Tracking (usage by treatment/session)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Discounts & Packages (package plans, session balance, package billing)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Treatment Notes, Billing & Reports (case notes, invoicing, follow-up reports)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Patients"
+      },
+      {
+        "type": "row",
+        "title": "Paperless Intake Forms",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Patient Records History",
+        "values": [
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Leads (CRM)"
+      },
+      {
+        "type": "row",
+        "title": "Leads (CRM)",
+        "values": [
+          "times",
+          "₹300* / month",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Meta & Google Lead Manager",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Automatic Reminders",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "WhatsApp Automation",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Auto Reminders(Extra Credit Charges)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Vaccination"
+      },
+      {
+        "type": "row",
+        "title": "Vaccination Management",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Manual Reminders",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Automatic Reminders",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Advanced Reports & Analytics",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Pharmacy"
+      },
+      {
+        "type": "row",
+        "title": "POS Billing",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Smart Invoicing",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Payment Tracking",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Advanced Reports & Analytics",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Inventory"
+      },
+      {
+        "type": "row",
+        "title": "Inventory & Stock Management",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Advanced Reports & Analytics",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Clinic"
+      },
+      {
+        "type": "row",
+        "title": "Advanced Waitlist",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Medical Records Storage",
+        "values": [
+          "5 GB",
+          "20 GB",
+          "30 GB"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "SMS/Email notifications",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Document Management",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Users"
+      },
+      {
+        "type": "row",
+        "title": "Staff Users",
+        "values": [
+          "1 User",
+          "1 User for each Role",
+          "5 User for each Role"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Add Practitioners",
+        "values": [
+          "₹300* / month",
+          "Included",
+          "Included"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Practitioner Scheduling",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Advanced Reports & Analytics",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Notes"
+      },
+      {
+        "type": "row",
+        "title": "Smart Clinic Chats & Notes",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Ready-to-use Progress Notes",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Training & Support"
+      },
+      {
+        "type": "row",
+        "title": "WhatsApp Chat Support (Business hours)",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Live Group Training (Only 1 time)",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Email Support (based on response time)",
+        "values": [
+          "24–48 hour",
+          "12–24 hour",
+          "2–6 hours"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Dedicated Manager",
+        "values": [
+          "times",
+          "times",
+          "check"
+        ]
+      }
+    ],
+    "yearly": [
+      {
+        "type": "section",
+        "title": "Price"
+      },
+      {
+        "type": "row",
+        "title": "Price (Yearly) + GST",
+        "values": [
+          "₹ 5,990",
+          "₹ 12,990",
+          "₹ 22,990"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Website (with 2yr Subscription)"
+      },
+      {
+        "type": "row",
+        "title": "Website Creation",
+        "values": [
+          "HTML website",
+          "Word Press website",
+          "CMS Website"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Appointment Widget",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Dashboard"
+      },
+      {
+        "type": "row",
+        "title": "Clinic Dashboard",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Revenue Dashboard",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Clients"
+      },
+      {
+        "type": "row",
+        "title": "Clients",
+        "values": [
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Telehealth Options"
+      },
+      {
+        "type": "row",
+        "title": "Telehealth Options",
+        "values": [
+          "Zoom",
+          "Zoom",
+          "Zoom"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Calendar"
+      },
+      {
+        "type": "row",
+        "title": "Dynamic Smart Calendar",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Appointments"
+      },
+      {
+        "type": "row",
+        "title": "Appointments",
+        "values": [
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Manual Reminders",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Automatic Reminders",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Client Booking Portal",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Prescription"
+      },
+      {
+        "type": "row",
+        "title": "Digital Prescription Manager",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Integrated Billing",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Billing & Invoicing",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Treatments"
+      },
+      {
+        "type": "row",
+        "title": "Treatments",
+        "values": [
+          "times",
+          "₹1200* / month",
+          "₹1800* / month"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Treatment Operations (Check-in / Check-out + Live Session Dashboard)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Therapist Management (assignments, availability, session ownership)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Consumable Tracking (usage by treatment/session)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Discounts & Packages (package plans, session balance, package billing)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Treatment Notes, Billing & Reports (case notes, invoicing, follow-up reports)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Patients"
+      },
+      {
+        "type": "row",
+        "title": "Paperless Intake Forms",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Patient Records History",
+        "values": [
+          "Unlimited",
+          "Unlimited",
+          "Unlimited"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Leads (CRM)"
+      },
+      {
+        "type": "row",
+        "title": "Leads (CRM)",
+        "values": [
+          "times",
+          "₹300* / month",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Meta & Google Lead Manager",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Automatic Reminders",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "WhatsApp Automation",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Auto Reminders(Extra Credit Charges)",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Vaccination"
+      },
+      {
+        "type": "row",
+        "title": "Vaccination Management",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Manual Reminders",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Automatic Reminders",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Advanced Reports & Analytics",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Pharmacy"
+      },
+      {
+        "type": "row",
+        "title": "POS Billing",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Smart Invoicing",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Payment Tracking",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Advanced Reports & Analytics",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Inventory"
+      },
+      {
+        "type": "row",
+        "title": "Inventory & Stock Management",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Advanced Reports & Analytics",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Clinic"
+      },
+      {
+        "type": "row",
+        "title": "Advanced Waitlist",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Medical Records Storage",
+        "values": [
+          "5 GB",
+          "20 GB",
+          "30 GB"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "SMS/Email notifications",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Document Management",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Users"
+      },
+      {
+        "type": "row",
+        "title": "Staff Users",
+        "values": [
+          "1 User",
+          "1 User for each Role",
+          "5 User for each Role"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Add Practitioners",
+        "values": [
+          "₹300* / month",
+          "Included",
+          "Included"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Practitioner Scheduling",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Advanced Reports & Analytics",
+        "values": [
+          "times",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Notes"
+      },
+      {
+        "type": "row",
+        "title": "Smart Clinic Chats & Notes",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Ready-to-use Progress Notes",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Training & Support"
+      },
+      {
+        "type": "row",
+        "title": "WhatsApp Chat Support (Business hours)",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Live Group Training (Only 1 time)",
+        "values": [
+          "check",
+          "check",
+          "check"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Email Support (based on response time)",
+        "values": [
+          "24–48 hour",
+          "12–24 hour",
+          "2–6 hours"
+        ]
+      },
+      {
+        "type": "row",
+        "title": "Dedicated Manager",
+        "values": [
+          "times",
+          "times",
+          "check"
+        ]
+      }
+    ]
+  },
+  "pricingAddons": [
+    {
+      "id": 1,
+      "icon": "pharmacy",
+      "title": "In-clinic Pharmacy",
+      "description": "Set up and manage your own in-clinic pharmacy with integrated inventory and billing workflows.",
+      "priceLabel": "STARTING AT",
+      "price": "₹7,699/yr"
+    },
+    {
+      "id": 2,
+      "icon": "credits",
+      "title": "Clinic Credits",
+      "description": "Stay in touch with your patients by sending messages using prepaid Clinic credits.",
+      "priceLabel": "STARTING AT",
+      "price": "₹350"
+    },
+    {
+      "id": 3,
+      "icon": "website",
+      "title": "Personalised Website",
+      "description": "Boost your online presence with a personalized website for your patients and discovery.",
+      "priceLabel": "STARTING AT",
+      "price": "₹13,999"
+    },
+    {
+      "id": 4,
+      "icon": "communication",
+      "title": "Own Your Communication",
+      "description": "Send messages via WhatsApp & SMS from your business account today.",
+      "priceLabel": "STARTING AT",
+      "price": "₹24,499/yr"
+    }
+  ],
+  "pricingPageCopy": {
+    "breadcrumbTitle": "Flexible plans for clinics ready to grow.",
+    "breadcrumbDescription": "Choose the right ClinicPro plan for your practice size, workflow, and growth goals — with transparent pricing and no setup fees.",
+    "compareTitle": "Compare plans side by side",
+    "compareDescription": "See exactly what is included in Starter, Professional, and Enterprise so you can pick the right fit for your clinic.",
+    "featureTitle": "Features and services",
+    "addonsTitle": "Unlock the full potential of ClinicPro with our Add-ons",
+    "addonsDescription": "Optional add-ons to extend ClinicPro for pharmacy, outreach, web presence, and more.",
+    "faqTitle": "Pricing questions, answered",
+    "faqDescription": "Everything you need to know about ClinicPro plans, billing, and getting started.",
+    "ctaTitle": "Ready to simplify your clinic?",
+    "ctaDescription": "Join thousands of clinics using ClinicPro to deliver better care and run their operations with ease."
+  },
+  "pricingHeroBenefits": [
+    {
+      "id": 1,
+      "icon": "fa-rocket",
+      "text": "No setup fees. Get started in minutes, not days."
+    },
+    {
+      "id": 2,
+      "icon": "fa-desktop",
+      "text": "Clinic website included. Professional, mobile-friendly & SEO ready."
+    },
+    {
+      "id": 3,
+      "icon": "fa-shield-check",
+      "text": "Secure patient records. HIPAA-ready with enterprise-grade security."
+    }
+  ],
+  "pricingHeroCards": {
+    "monthly": [
+      {
+        "id": 1,
+        "title": "Starter",
+        "description": "Perfect for individual practitioners getting started.",
+        "price": "599",
+        "period": "month",
+        "btnText": "Get Starter",
+        "cls": "",
+        "icon": "/assets/img/price/price-icon-1.png",
+        "features": [
+          "Clinic website included",
+          "Smart calendar & appointments",
+          "Digital prescriptions & billing",
+          "1 staff user"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Professional",
+        "description": "Ideal for growing multi-practitioner clinics.",
+        "price": "1,299",
+        "period": "month",
+        "btnText": "Get Professional",
+        "cls": "active",
+        "popular": true,
+        "icon": "/assets/img/price/price-icon-2.png",
+        "features": [
+          "Everything in Starter",
+          "Revenue dashboard & CRM",
+          "Treatment operations suite",
+          "Practitioner scheduling"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Enterprise",
+        "description": "For large clinics and healthcare networks.",
+        "price": "2,299",
+        "period": "month",
+        "btnText": "Get Enterprise",
+        "cls": "",
+        "icon": "/assets/img/price/price-icon-3.png",
+        "features": [
+          "Everything in Professional",
+          "Dedicated account manager",
+          "Priority support (2–6 hours)",
+          "5 us.per role"
+        ]
+      }
+    ],
+    "yearly": [
+      {
+        "id": 1,
+        "title": "Starter",
+        "description": "Perfect for individual practitioners getting started.",
+        "price": "5,990",
+        "period": "year",
+        "btnText": "Get Starter",
+        "cls": "",
+        "icon": "/assets/img/price/price-icon-1.png",
+        "features": [
+          "Clinic website included",
+          "Smart calendar & appointments",
+          "Digital prescriptions & billing",
+          "1 staff user"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Professional",
+        "description": "Ideal for growing multi-practitioner clinics.",
+        "price": "12,990",
+        "period": "year",
+        "btnText": "Get Professional",
+        "cls": "active",
+        "popular": true,
+        "icon": "/assets/img/price/price-icon-2.png",
+        "features": [
+          "Everything in Starter",
+          "Revenue dashboard & CRM",
+          "Treatment operations suite",
+          "Practitioner scheduling"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Enterprise",
+        "description": "For large clinics and healthcare networks.",
+        "price": "22,990",
+        "period": "year",
+        "btnText": "Get Enterprise",
+        "cls": "",
+        "icon": "/assets/img/price/price-icon-3.png",
+        "features": [
+          "Everything in Professional",
+          "Dedicated account manager",
+          "Priority support (2–6 hours)",
+          "5 us.per role"
+        ]
+      }
+    ]
+  },
+  "pricingFaqs": [
+    {
+      "id": 1,
+      "question": "Can I switch plans later?",
+      "answer": "Yes. You can upgrade or downgrade at any time. Changes take effect on your next billing cycle, and our team will help migrate your settings smoothly."
+    },
+    {
+      "id": 2,
+      "question": "Is there a setup fee or long-term contract?",
+      "answer": "No setup fees and no long-term lock-in on monthly plans. Annual plans offer savings and are billed once per year."
+    },
+    {
+      "id": 3,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept major credit and debit cards, UPI, and bank transf.for annual subscriptions. Invoices include applicable GST."
+    },
+    {
+      "id": 4,
+      "question": "Do you offer a free trial or demo?",
+      "answer": "Book a personalized demo to explore ClinicPro with your workflows. Our team can also guide you through a tailored onboarding plan."
+    },
+    {
+      "id": 5,
+      "question": "Can I add practitioners or locations later?",
+      "answer": "Yes. Additional practitioners and optional add-ons like pharmacy, CRM credits, and custom websites can be added as your clinic grows."
+    },
+    {
+      "id": 6,
+      "question": "Is patient data secure and compliant?",
+      "answer": "ClinicPro uses enterprise-grade security with encrypted records, role-based access, and HIPAA-ready infrastructure to protect patient data."
+    }
+  ]
+}

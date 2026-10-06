@@ -1,0 +1,91 @@
+{
+  "socialLinks": [
+    {
+      "link": "https://www.facebook.com",
+      "target": "_blank",
+      "icon": "fab fa-facebook-f"
+    },
+    {
+      "link": "https://www.instagram.com",
+      "target": "_blank",
+      "icon": "fab fa-instagram"
+    }
+  ],
+  "content": {
+    "newsletterTitle": "Get Our Latest News & Healthcare Insights",
+    "description": "Our comprehensive clinic management platform with revenue tracking capabilities for healthcare operations.",
+    "phone": "+91 8850533614",
+    "contactMail": "contact@clinicpro.cc",
+    "location": "Mumbai, India",
+    "locationUrl": "https://www.google.com/maps/place/OCMONO+Avenues+Pvt+Ltd/@19.146432,72.855344,2588m/data=!3m1!1e3!4m6!3m5!1s0x3be7b7abcaca2399:0x25a2ccc4cf860f80!8m2!3d19.1464319!4d72.8553436!16s%2Fg%2F11m5pzv2sh?entry=ttu",
+    "copyRight": "© 2026 ClinicPro. All rights reserved.",
+    "footerLinks": [
+      {
+        "id": 1,
+        "cls_1": "col-xl-3 col-lg-3 col-md-5",
+        "cls_2": "footer-col-2",
+        "title": "Features",
+        "delay": ".7s",
+        "links": [
+          {
+            "name": "Vaccination Management",
+            "link": "/features/vaccination-management"
+          },
+          {
+            "name": "Appointment Scheduling",
+            "link": "/features/appointment-scheduling"
+          },
+          {
+            "name": "Prescription Management",
+            "link": "/features/prescription-management"
+          },
+          {
+            "name": "Payments & Invoices",
+            "link": "/features/payments-invoices"
+          },
+          {
+            "name": "Clinic Notes",
+            "link": "/features/clinic-notes"
+          },
+          {
+            "name": "Dynamic Smart Calendar",
+            "link": "/features/dynamic-smart-calendar"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "cls_1": "col-xl-2 col-lg-2 col-md-6",
+        "cls_2": "footer-col-3",
+        "title": "Quick Links",
+        "delay": ".9s",
+        "links": [
+          {
+            "name": "About",
+            "link": "/about"
+          },
+          {
+            "name": "Features",
+            "link": "/features"
+          },
+          {
+            "name": "Pricing Plan",
+            "link": "/price"
+          },
+          {
+            "name": "Blog",
+            "link": "/blog"
+          },
+          {
+            "name": "Contact",
+            "link": "/contact"
+          },
+          {
+            "name": "My Account",
+            "link": "https://accounts.clinicpro.cc"
+          }
+        ]
+      }
+    ]
+  }
+}

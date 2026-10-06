@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "img": "/assets/img/price/price-icon-1.png",
+    "title": "Starter Plan",
+    "description": "Perfect for individual practitioners",
+    "cls": "",
+    "price": "₹599/Monthly",
+    "features": [
+      "Patient Management & EMR",
+      "Appointment Scheduling",
+      "Revenue Tracking & Reports",
+      "24/7 Online Support"
+    ]
+  },
+  {
+    "id": 2,
+    "img": "/assets/img/price/price-icon-2.png",
+    "title": "Growth Plan",
+    "description": "Ideal for multi-practitioner clinics",
+    "cls": "active",
+    "price": "₹1,299/Monthly",
+    "features": [
+      "Patient Management & EMR",
+      "Appointment Scheduling",
+      "Best Data Plan & Package",
+      "24/7 Online Support"
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/assets/img/price/price-icon-3.png",
+    "title": "Group Practice",
+    "description": "For large clinics and healthcare networks",
+    "cls": "",
+    "price": "₹2,299/Monthly",
+    "features": [
+      "Patient Management & EMR",
+      "Appointment Scheduling",
+      "Revenue Tracking & Reports",
+      "24/7 Online Support"
+    ]
+  },
+  {
+    "id": 4,
+    "img": "/assets/img/price/price-icon-1.png",
+    "title": "Starter Plan",
+    "description": "Perfect for individual practitioners",
+    "cls": "",
+    "price": "₹5,990/Yearly",
+    "features": [
+      "Patient Management & EMR",
+      "Appointment Scheduling",
+      "Revenue Tracking & Reports",
+      "24/7 Online Support"
+    ]
+  },
+  {
+    "id": 5,
+    "img": "/assets/img/price/price-icon-2.png",
+    "title": "Growth Plan",
+    "description": "Ideal for multi-practitioner clinics",
+    "cls": "active",
+    "price": "₹12,990/Yearly",
+    "features": [
+      "Patient Management & EMR",
+      "Appointment Scheduling",
+      "Best Data Plan & Package",
+      "24/7 Online Support"
+    ]
+  },
+  {
+    "id": 6,
+    "img": "/assets/img/price/price-icon-3.png",
+    "title": "Group Practice",
+    "description": "For large clinics and healthcare networks",
+    "cls": "",
+    "price": "₹22,990/Yearly",
+    "features": [
+      "Patient Management & EMR",
+      "Appointment Scheduling",
+      "Revenue Tracking & Reports",
+      "24/7 Online Support"
+    ]
+  }
+]
